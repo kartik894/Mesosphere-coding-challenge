@@ -1,5 +1,9 @@
 # Distributed Systems Engineer Challenge
 
+## Instructions
+
+`$ make && ./MesosphereScheduler`
+
 ## Overview
 
 My solution consists of four modules/pieces:
